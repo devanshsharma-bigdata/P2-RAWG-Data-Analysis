@@ -12,9 +12,9 @@
 #### Python [3.8]
 #### Git/GitHub []
 ### Problem Statements
-#### Which is the top most rated games accross all platform?
+#### Which are the top most rated games accross all platform?
 #### Which game developer has released the most number of games?
-#### Which game genres has most games?
+#### Which game genre has most games?
 
 
 ### DataSet Used
