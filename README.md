@@ -15,8 +15,8 @@
 #### Which is the top most rated games accross all platform?
 #### Which game developer has released the most number of games?
 #### Which game genres has most games?
-abc
-xyz
+
+
 ### DataSet Used
 #### RAWG Dataset: https://www.kaggle.com/jummyegg/rawg-game-dataset
 
