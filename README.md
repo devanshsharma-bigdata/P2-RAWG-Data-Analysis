@@ -10,7 +10,7 @@
 #### Spark SQL
 #### Pandas [1.3.1]
 #### Python [3.8]
-#### Git/GitHub []
+#### Git/GitHub
 ### Problem Statements
 #### Which are the top most rated games accross all platform?
 #### Which game developer has released the most number of games?
