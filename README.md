@@ -11,12 +11,14 @@
 #### Pandas [1.3.1]
 #### Python [3.8]
 #### Git/GitHub
+
 ### Problem Statements
 #### Which are the top most rated games accross all platform?
 #### Which game developer has released the most number of games?
 #### Which game genre has most games?
 #### Number of games released per year.
 #### Game with longest updation time.
+
 ### Column Definitions
 #### id: An unique ID identifying this Game in RAWG Database
 #### slug: An unique slug identifying this Game in RAWG Database
@@ -45,7 +47,8 @@
 #### added_status_toplay: Number of RAWG users had the game as "To play"
 #### added_status_dropped: Number of RAWG users had the game as "Played but not beaten"
 #### added_status_playing: Number of RAWG users had the game as "Playing"
-### DataSet Used
+
+### Dataset Used
 #### [RAWG Dataset](https://www.kaggle.com/jummyegg/rawg-game-dataset)
 
 
