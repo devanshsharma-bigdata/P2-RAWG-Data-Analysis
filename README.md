@@ -2,7 +2,7 @@
 ##### by Devansh Sharma
 
 ### Project Description
-#### An analysis on RAWG API.
+An analysis on RAWG API.
 
 #### RAWG is the largest Video Game Database and game discovery service with 500,000+ games data.
 
