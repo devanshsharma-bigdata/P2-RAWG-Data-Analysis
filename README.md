@@ -34,7 +34,6 @@ RAWG is the largest Video Game Database and game discovery service with 500,000+
 * Sailash R
 
 ### Dataset Used
-* RAWG Dataset Document
 * [RAWG Dataset](https://www.kaggle.com/jummyegg/rawg-game-dataset)
 
 ### License
