@@ -35,7 +35,7 @@ RAWG is the largest Video Game Database and game discovery service with 500,000+
 
 ### Dataset Used
 * RAWG Dataset Document
-* RAWG Dataset
+* [RAWG Dataset](https://www.kaggle.com/jummyegg/rawg-game-dataset)
 
 ### License
 * This project uses the following license: MIT License
