@@ -2,7 +2,6 @@
 ##### by Devansh Sharma
 
 ### Project Description
-
 An analysis on RAWG API.
 
 RAWG is the largest Video Game Database and game discovery service with 500,000+ games data.
@@ -18,7 +17,6 @@ RAWG is the largest Video Game Database and game discovery service with 500,000+
 * Spark SQL Spark SQL is a Spark module for structured data processing It provides a programming abstraction called Data Frames and can also act as a distributed SQL query engine It enables unmodified Hadoop Hive queries to run up to 100 x faster on existing deployments and data
 
 * Git /GitHub It is a provider of Internet hosting for software development and version control using Git It offers the distributed version control and source code management functionality of Git
-
 
 ### Features
 * User can find the top most rated games across all platforms.
