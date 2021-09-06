@@ -2,11 +2,14 @@
 ##### by Devansh Sharma
 
 ### Project Description
+
 An analysis on RAWG API.
+
 RAWG is the largest Video Game Database and game discovery service with 500,000+ games data.
 
 ### Technologies Used
-#### Apache Spark [3.1.2] Apache Spark is an open source unified analytics engine for large scale data processing Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance
+
+Apache Spark [3.1.2] Apache Spark is an open source unified analytics engine for large scale data processing Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance
 
 #### Python [3.8] Python is an interpreted high level general purpose programming language Python's design philosophy emphasizes code readability with its notable use of significant indentation
 
