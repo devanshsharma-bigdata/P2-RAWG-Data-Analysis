@@ -28,7 +28,7 @@ RAWG is the largest Video Game Database and game discovery service with 500,000+
 ### Contributors
 * Hemanth Ghosh
 * Divya Reddy
-* Rajkumar
+* Rajkumar K
 * Sailash R
 
 ### Dataset Used
