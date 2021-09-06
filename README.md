@@ -3,8 +3,7 @@
 
 ### Project Description
 An analysis on RAWG API.
-
-#### RAWG is the largest Video Game Database and game discovery service with 500,000+ games data.
+RAWG is the largest Video Game Database and game discovery service with 500,000+ games data.
 
 ### Technologies Used
 #### Apache Spark [3.1.2] Apache Spark is an open source unified analytics engine for large scale data processing Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance
