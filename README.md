@@ -1,5 +1,5 @@
 # P2-RAWG-Data-Analysis
-###### by Devansh Sharma
+##### by Devansh Sharma
 
 ### Project Description
 #### An analysis on RAWG API.
