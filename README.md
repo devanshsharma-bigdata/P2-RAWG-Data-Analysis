@@ -58,13 +58,13 @@ RAWG is the largest Video Game Database and game discovery service with 500,000+
 #### Number of games released per year
 #### Games with longest updation time
 ### Contributors
-#### Hemanth Ghosh
-#### Divya Reddy
-#### Rajkumar
-#### Sailash R
+* Hemanth Ghosh
+* Divya Reddy
+* Rajkumar
+* Sailash R
 ### Dataset Used
-#### RAWG Dataset Document
-#### RAWG Dataset
+* RAWG Dataset Document
+* RAWG Dataset
 
 ### License
-#### This project uses the following license: MIT License
+* This project uses the following license: MIT License
